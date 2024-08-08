@@ -1,5 +1,7 @@
 [package]
 name = "wuht"
+description = "A monolith used to search for stuff"
+license = "None"
 version = "0.1.0"
 edition = "2021"
 
